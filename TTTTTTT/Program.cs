@@ -13,7 +13,7 @@ namespace TTTTTTT
             Console.WriteLine("YOOOOYO");
             Console.WriteLine("LUCIO BALLLLL");
             Console.WriteLine("EPIC SAVEEE!");
-            Console.WriteLine("Biatch");
+
         }
     }
 }
