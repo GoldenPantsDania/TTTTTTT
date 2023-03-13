@@ -10,7 +10,7 @@ namespace TTTTTTT
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("YOOOO");
+            Console.WriteLine("YOOOOYO");
             Console.WriteLine("LUCIO BALLLLL");
             Console.WriteLine("EPIC SAVEEE!");
         }
